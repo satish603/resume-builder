@@ -1,0 +1,139 @@
+.banner1 {
+  margin: 0;
+  height: 100vh;
+}
+
+.signuphead {
+  margin-top: 30%;
+  margin-left: 10%;
+}
+
+.stepshead {
+  margin-top: 35%;
+}
+
+.poweredBY {
+  margin-left: 10%;
+}
+.steps {
+  margin: 100px auto;
+  float: center;
+
+}
+
+.steps ol li {
+  margin-top: 2%;
+}
+
+
+label {
+  margin: 3% 0 1% 0;
+}
+.cont h6{
+  display: inline;
+}
+
+.cont p{
+  display: inline;
+}
+
+hr.hrule {
+  width: 95%;
+  height: 2px;
+  margin: auto;
+  color: black;
+}
+
+.headings {
+  width: 100%;
+  margin: auto;
+  color: #4B3869;
+  padding: 0;
+}
+
+.resumehead {
+  color: #4B3869;
+}
+.headings h4 {
+  font-size: 120%;
+}
+
+.template {
+  margin: 5% auto;
+  width: 90%;
+  border: 1px solid #4B3869;
+  padding: 0 2% 2% 2%;
+  background-color: white;
+}
+
+.aq table{
+  width: 70%;
+}
+
+.aq table th{
+  color: #4B3869;
+}
+
+.techSkills {
+  margin: auto;
+  width: 100%;
+}
+
+
+.pdfButton {
+  display: none;
+}
+
+
+#downloadButton {
+  display: none;
+}
+
+#template {
+  display: none;
+}
+
+
+.projects hr {
+  width: 30%;
+  margin: auto;
+}
+
+.projects h5 {
+  color: #4B3869;
+}
+
+.aq1 table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 5px;
+}
+
+.aq1 td {
+  width: 80%;
+}
+
+.aq1 tr {
+  margin: 2% 0;
+}
+
+.addBut {
+  background-color: #4B3869;
+  color: white;
+}
+
+.projectsInput table{
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 5px;
+}
+
+.projectsInput td {
+  width: 80%;
+}
+
+.frontContent {
+  position: absolute;
+  top: auto;
+  bottom: 50px;
+}
